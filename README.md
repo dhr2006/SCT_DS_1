@@ -4,11 +4,13 @@ Welcome to the SCT_DS_1 repository!
 
 ## Overview
 
-This repository contains data science and analysis materials related to the SCT_DS_1 project.
+This repository contains data science and analysis materials related to the SCT_DS_1 project. this is my first task of intern from skill ctraft technology in data science domain
 
 ## Getting Started
 
 To get started with this project, please follow the instructions in the respective directories and documentation files.
+#dataset
+from kaggle /world-data-2023.csv
 
 ## Project Structure
 
@@ -17,21 +19,7 @@ To get started with this project, please follow the instructions in the respecti
 - `/src` - Source code and utilities
 - `/docs` - Documentation
 
-## Installation
 
-Instructions for setting up the project will be added here.
-
-## Usage
-
-Usage instructions will be added here.
-
-## Contributing
-
-Contributions are welcome! Please follow best practices and ensure all tests pass before submitting a pull request.
-
-## License
-
-See LICENSE file for details.
 
 ## Contact
 
